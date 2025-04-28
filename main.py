@@ -19,3 +19,4 @@ if __name__ == '__main__':
 # wheel, theme 2x shift
 # PEP8 formatowanie kodu
 # ctrl alt l - formatowanie
+# ctrl alt l - formatowanie
